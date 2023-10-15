@@ -19,4 +19,9 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: khaki; /* Background color */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 60px;
 }
+
